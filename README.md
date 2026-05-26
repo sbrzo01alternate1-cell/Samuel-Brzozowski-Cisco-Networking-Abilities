@@ -9,7 +9,7 @@ Install it like this:
 
 sudo apt install ./CiscoPacketTracer_900_Ubuntu_64bit.deb
 
-Here are the lessons I learned:
+Here are the lessons I learned, and will slowly PROVE I learned:
 
 # Module 1 The Building Blocks
 1. Intro to the Sandbox & OSI Model

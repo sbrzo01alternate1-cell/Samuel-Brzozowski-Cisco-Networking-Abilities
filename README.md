@@ -16,8 +16,8 @@ Here are the lessons I learned, and will slowly PROVE I learned:
 
 [Here is my description of the OSI model](https://github.com/sbrzo01alternate1-cell/Samuel-Brzozowski-Networking-Abilities/blob/main/1.1%20Intro%20to%20the%20Sandbox%20%26%20OSI%20Model.md)
 
-3. Basic Switch Configuration
-4. The IP Nightmare (Subnetting & Addressing)
+2. Basic Switch Configuration
+3. The IP Nightmare (Subnetting & Addressing)
 
 # Module 2 Local Traffic & Segregation (Weeks 4–6)
 4. VLANs (Virtual Local Area Networks)

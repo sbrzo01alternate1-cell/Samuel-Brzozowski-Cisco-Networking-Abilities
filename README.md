@@ -16,6 +16,8 @@ Here are the lessons I learned, and will slowly PROVE I learned:
 
 [Here is my description of the OSI model](https://github.com/sbrzo01alternate1-cell/Samuel-Brzozowski-Networking-Abilities/blob/main/1.1%20Intro%20to%20the%20Sandbox%20%26%20OSI%20Model.md)
 
+[Here is my description of the first lab](https://github.com/sbrzo01alternate1-cell/Samuel-Brzozowski-Networking-Abilities/blob/main/1.2%20first%20lab%20description.md)
+
 2. Basic Switch Configuration
 3. The IP Nightmare (Subnetting & Addressing)
 

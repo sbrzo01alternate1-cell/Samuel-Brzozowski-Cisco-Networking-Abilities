@@ -18,8 +18,13 @@ Here are the lessons I learned, and will slowly PROVE I learned:
 
 [Here is my description of the first lab, setting up the internal network basics](https://github.com/sbrzo01alternate1-cell/Samuel-Brzozowski-Networking-Abilities/blob/main/1.2%20first%20lab%20description.md)
 
+Here is the download link for the first lab
+
 2. Basic Switch Configuration
-3. The IP Nightmare (Subnetting & Addressing)
+
+[Here is the description for the Basic Switch Configuration](https://github.com/sbrzo01alternate1-cell/Samuel-Brzozowski-Cisco-Networking-Abilities/blob/main/2.1%20Basic%20Switch%20Configuration.md)
+
+4. The IP Nightmare (Subnetting & Addressing)
 
 # Module 2 Local Traffic & Segregation (Weeks 4–6)
 4. VLANs (Virtual Local Area Networks)

@@ -11,7 +11,7 @@ sudo apt install ./CiscoPacketTracer_900_Ubuntu_64bit.deb
 
 Here are the lessons I learned, and will slowly PROVE I learned:
 
-# Module 1 The Building Blocks
+# Module 1 The Building Blocks (Weeks 1-3)
 1. Intro to the Sandbox & OSI Model
 
 [Here is my description of the OSI model](https://github.com/sbrzo01alternate1-cell/Samuel-Brzozowski-Networking-Abilities/blob/main/1.1%20Intro%20to%20the%20Sandbox%20%26%20OSI%20Model.md)

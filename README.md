@@ -22,13 +22,13 @@ Here are the lessons I learned, and will slowly PROVE I learned:
 
 2. Basic Switch Configuration
 
-[Here is the description for the Basic Switch Configuration](https://github.com/sbrzo01alternate1-cell/Samuel-Brzozowski-Cisco-Networking-Abilities/blob/main/2.1%20Basic%20Switch%20Configuration.md)
+[Here is my description for the Basic Switch Configuration](https://github.com/sbrzo01alternate1-cell/Samuel-Brzozowski-Cisco-Networking-Abilities/blob/main/2.1%20Basic%20Switch%20Configuration.md)
 
 [Download my Basic Switch Configuration Lab here](https://github.com/sbrzo01alternate1-cell/Samuel-Brzozowski-Cisco-Networking-Abilities/blob/main/2.2%20Basic%20Switch%20Configuration.pkt)
 
 3. Basic Router Configuration
 
-[Here is the description for the Basic Router Configuration](https://github.com/sbrzo01alternate1-cell/Samuel-Brzozowski-Cisco-Networking-Abilities/blob/main/3.1%20Basic%20Router%20Configuration%20Description.md)
+[Here is my description for the Basic Router Configuration](https://github.com/sbrzo01alternate1-cell/Samuel-Brzozowski-Cisco-Networking-Abilities/blob/main/3.1%20Basic%20Router%20Configuration%20Description.md)
 
 Download my Basic Router Configuration Lab here
 

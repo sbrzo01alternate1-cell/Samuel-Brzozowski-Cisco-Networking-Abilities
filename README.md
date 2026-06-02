@@ -30,7 +30,7 @@ Here are the lessons I learned, and will slowly PROVE I learned:
 
 [Here is my description for the Basic Router Configuration](https://github.com/sbrzo01alternate1-cell/Samuel-Brzozowski-Cisco-Networking-Abilities/blob/main/3.1%20Basic%20Router%20Configuration%20Description.md)
 
-Download my Basic Router Configuration Lab here
+[Download my Basic Router Configuration Lab here](https://github.com/sbrzo01alternate1-cell/Samuel-Brzozowski-Cisco-Networking-Abilities/blob/main/3.2%20Basic%20Router%20Configuration.pkt)
 
 4. The IP Nightmare (Subnetting & Addressing)
 

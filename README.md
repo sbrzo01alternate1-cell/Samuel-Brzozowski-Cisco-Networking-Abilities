@@ -26,19 +26,21 @@ Here are the lessons I learned, and will slowly PROVE I learned:
 
 [Download my Basic Switch Configuration Lab here](https://github.com/sbrzo01alternate1-cell/Samuel-Brzozowski-Cisco-Networking-Abilities/blob/main/2.2%20Basic%20Switch%20Configuration.pkt)
 
-3. The IP Nightmare (Subnetting & Addressing)
+3. Basic Router Configuration
+
+4. The IP Nightmare (Subnetting & Addressing)
 
 # Module 2 Local Traffic & Segregation (Weeks 4–6)
-4. VLANs (Virtual Local Area Networks)
-5. Trunking & Inter-VLAN Routing
-6. Layer 3 Switches
+5. VLANs (Virtual Local Area Networks)
+6. Trunking & Inter-VLAN Routing
+7. Layer 3 Switches
 
 # Module 3: Connecting to the Outside World (Weeks 7–9)
-7. Static Routing & Default Routes
-8. Dynamic Routing (OSPF)
-9. DHCP (Automatic IP Assignment)
+8. Static Routing & Default Routes
+9. Dynamic Routing (OSPF)
+10. DHCP (Automatic IP Assignment)
 
 # Module 4: The Defense System (Weeks 10–12)
-10. Access Control Lists (ACLs) - The Basic Firewall
-11. NAT (Network Address Translation)
-12. Device Hardening & Final Capstone Project
+11. Access Control Lists (ACLs) - The Basic Firewall
+12. NAT (Network Address Translation)
+13. Device Hardening & Final Capstone Project

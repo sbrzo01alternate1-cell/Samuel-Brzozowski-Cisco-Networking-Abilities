@@ -34,9 +34,9 @@ Here are the lessons I learned, and will slowly PROVE I learned:
 
 4. The IP Nightmare (Subnetting & Addressing)
 
-Here is my description for the IP Nightmare (Subnetting and Addressing)
+[Here is my description for the IP Nightmare (Subnetting and Addressing)](https://github.com/sbrzo01alternate1-cell/Samuel-Brzozowski-Cisco-Networking-Abilities/blob/main/4.1%20The%20IP%20Nightmare%20(Subnetting%20%26%20Addressing)%20Description.md)
 
-Here is my lab for the IP Nightmare (Subnetting and Addressing)
+[Here is my lab for the IP Nightmare (Subnetting and Addressing)](https://github.com/sbrzo01alternate1-cell/Samuel-Brzozowski-Cisco-Networking-Abilities/blob/main/4.2%20The%20IP%20Nightmare%20(Subnetting%20%26%20Addressing)%20Lab.pkt)
 
 # Module 2 Local Traffic & Segregation (Weeks 4–6)
 5. VLANs (Virtual Local Area Networks)

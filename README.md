@@ -34,6 +34,10 @@ Here are the lessons I learned, and will slowly PROVE I learned:
 
 4. The IP Nightmare (Subnetting & Addressing)
 
+Here is my description for the IP Nightmare (Subnetting and Addressing)
+
+Here is my lab for the IP Nightmare (Subnetting and Addressing)
+
 # Module 2 Local Traffic & Segregation (Weeks 4–6)
 5. VLANs (Virtual Local Area Networks)
 6. Trunking & Inter-VLAN Routing

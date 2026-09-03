@@ -40,8 +40,15 @@ Here are the lessons I learned, and will slowly PROVE I learned:
 
 # Module 2 Local Traffic & Segregation (Weeks 4–6)
 5. VLANs (Virtual Local Area Networks)
-6. Trunking & Inter-VLAN Routing
-7. Layer 3 Switches
+
+First some questions to be answered about VLANs.
+
+Here is my description for the lab VLANs
+
+Here is my lab for the VLANs
+
+7. Trunking & Inter-VLAN Routing
+8. Layer 3 Switches
 
 # Module 3: Connecting to the Outside World (Weeks 7–9)
 8. Static Routing & Default Routes

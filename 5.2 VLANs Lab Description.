@@ -2,3 +2,13 @@
 
 In this lab, I will create two VLANs, two computers in each VLAN (four total), and one router and one switch. Names of VLANs will be HR and Engineering. We will use 
 VLAN 10 and VLAN 20. 192.168.10.0/24 and 192.168.20.0/24 networks. No subnetting this time.
+
+# Basic Setup:
+
+First get four computers, then one switch, and one router. Plug in the basic IP information. Here's what I got so far. No commands entered yet:
+
+
+
+
+
+

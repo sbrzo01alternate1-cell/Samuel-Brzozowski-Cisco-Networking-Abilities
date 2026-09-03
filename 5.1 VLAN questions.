@@ -1,0 +1,22 @@
+5.1 VLAN questions.
+
+These are questions and answers about VLANs:
+
+1. Why is a "flat" switch (a switch without VLANs) a bad idea for security, AND why is it slower?
+
+Ans: The reason "flat" switches without VLANs are bad for security is if a hacker plugs in a compromised computer, or if you even plug in a vulnerable IOT device, then that 
+device now has access to all the IP Addresses, can be a rogue DHCP server, listen in on traffick, flooding the network with fake traffick to DOS it, or potentially even 
+infecting other computers with malware
+
+It's also slower because broadcast addresses are sent to EVERY single computer on the network, there is no segmentation.
+
+2. What even is a VLAN?
+
+Ans: A VLAN is a virtual Local Area Network, it means making the switch pretend there are two different networks, two different routers. It basically splits a network in half 
+(or four or more...)
+
+3. What is the default VLAN and what are the most common names of ones businesses typically make?
+
+Ans: The default VLAN is VLAN 1, and all data travels through this unless you change the VLAN. Other names are Data (customer traffick), Management (administrators who own 
+the VLANs), Voice (Voice over IP), Native VLAN (Changing the default VLAN to Native, mostly to screw up and confuse hackers, but all security helps right?), and Black Hole 
+(A useless VLAN, that is set to unused ports for security so nobody can plug in a new PC without approval.)

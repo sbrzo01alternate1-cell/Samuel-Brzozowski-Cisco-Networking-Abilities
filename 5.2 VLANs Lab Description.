@@ -6,3 +6,5 @@ VLAN 10 and VLAN 20. 192.168.10.0/24 and 192.168.20.0/24 networks. No subnetting
 # Basic Setup:
 
 First get four computers, then one switch, and one router. Plug in the basic IP information. Here's what I got so far. No commands entered yet:
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e8cfe4b0-788d-4bd2-9ef1-123297cea609" />
